@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at ICFAI University Nagaland<br>🤝 I’m looking for help with python programming, react, three.js<br>🌱 I’m currently learning python<br>⚡ Fun fact i am a fast learner and I love new challenges
+🤝 I’m looking for help with python programming, react, three.js<br>🌱 I’m currently learning python<br>⚡ Fun fact i am a fast learner and I love new challenges
 
 
 ## 🌐 Socials:
